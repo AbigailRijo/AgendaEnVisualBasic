@@ -1,0 +1,13 @@
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\bin\Debug\AgendaDeAbby.exe.config
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\bin\Debug\AgendaDeAbby.exe
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\bin\Debug\AgendaDeAbby.pdb
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\bin\Debug\AgendaDeAbby.xml
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.vbprojResolveAssemblyReference.cache
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.Form1.resources
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.Resources.resources
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.vbproj.GenerateResource.Cache
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.vbproj.CoreCompileInputs.cache
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.exe
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.xml
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.pdb
+C:\Users\Ip02lt\source\repos\AgendaDeAbby\AgendaDeAbby\obj\Debug\AgendaDeAbby.Form2.resources
